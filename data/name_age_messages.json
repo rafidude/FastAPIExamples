@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "name": "John",
+            "age": 30
+        },
+        {
+            "name": "Jane",
+            "age": 28
+        },
+        {
+            "name": "Bob",
+            "age": 35
+        },
+        {
+            "name": "Alice",
+            "age": 32
+        }
+    ],
+    "messages": [
+        {
+            "content": "Bye!",
+            "sender_name": "User 2",
+            "timestamp_ms": 1675597571851
+        },
+        {
+            "content": "Oh no worries! Bye",
+            "sender_name": "User 1",
+            "timestamp_ms": 1675597435669
+        },
+        {
+            "content": "No Im sorry it was my mistake, the blue one is not for sale",
+            "sender_name": "User 2",
+            "timestamp_ms": 1675596277579
+        }
+    ]
+}
